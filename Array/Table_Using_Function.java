@@ -4,7 +4,7 @@ package Array;
 /**
  * myfile
  */
-public class Table_of_5_and_10 {
+public class Table_Using_Function {
     static void product(int[][] arr, int n, int m, int numbers){
         int i;
         for(i =1;i<=m;i++){
